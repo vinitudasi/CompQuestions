@@ -1,2 +1,2 @@
 # CompetitiveProgramming
-Solutions To some kattis competitive programming questions
+Solutions To some competitive programming questions
